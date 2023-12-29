@@ -1,4 +1,4 @@
-# Hello, I'm Aya Zeidan! 👋
+# Hello!👋
 
 ## About Me
 🎓 PhD Researcher in Surgical & Interventional Engineering (School of Biomedical Engineering & Imaging Sciences) at King’s College London.  
