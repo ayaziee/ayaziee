@@ -24,17 +24,17 @@
 - Zeidan, A. M., et al. (Year). Title of the paper. *Journal Name*. Vol(Issue), Pages. [Link]
 - Zeidan, A. M., et al. (Year). Title of another paper. *Conference Proceedings*. [Link] -->
 
-## Connect with Me
+<!--## Connect with Me
 - LinkedIn: [www.linkedin.com/in/aya-zeidan99](https://www.linkedin.com/in/aya-zeidan99)
 - Email: [aya.zeidan@kcl.ac.uk](mailto:aya.zeidan@kcl.ac.uk)
 
-<!-- Optional: Any other social media or professional links -->
+<!-- Optional: Any other social media or professional link
 
 ## My GitHub Stats
-<!-- You might include a section with your GitHub stats using GitHub Readme Stats (https://github.com/anuraghazra/github-readme-stats) -->
+<!-- You might include a section with your GitHub stats using GitHub Readme Stats (https://github.com/anuraghazra/github-readme-stats)
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true)
 
-<!-- You can add widgets like the one below to showcase your most used languages, contributions, etc. -->
+<!-- You can add widgets like the one below to showcase your most used languages, contributions, etc. 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)
 
 <!-- Consider adding a section for any open source projects you've contributed to or any technical community activities you're involved with -->
